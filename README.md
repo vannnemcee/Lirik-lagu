@@ -4,11 +4,40 @@
 
 <hr>
  
-<details>
-  <summary>### ara Menggunakannya</summary>
+## Cara Menggunakannya
+### 1. Instalasi di Windows (VS Code Terminal)
 
-  1. Salin code/file `lirik.py`, dan buka di VSCode  
-  2. Jalankan sesuai kebutuhan  
-  3. Tambahkan instruksi lain kalau perlu  
+1. Pastikan sudah menginstall **Python 3.x** di Windows.  
+   👉 Download dari [python.org](https://www.python.org/downloads/).
 
-</details>
+2. Buka VS Code, lalu buka terminal (`Ctrl + ~`).
+
+3. Jalankan perintah berikut untuk cek apakah semua modul tersedia:
+
+```bash
+python -m pip install --upgrade pip
+```
+
+### 2. Menjalankan file lirik.py
+pastikan kamu sudah melakukan tahap 1
+
+1. Salin code/file `lirik.py`, dan buka di VSCode
+
+2. buka terminal lalu ketik seperti ini
+   ```
+   cd D:\FolderKamu\
+   ```
+   tetapi ini tergantung lokasi file kalian misal file nya di local Disk C 
+   maka harus seperti ini C:\FolderKamu\
+   
+4. Jika sudah lalu jalankan file nya dengan cara
+   ```
+   python lirik.py
+   ```
+
+<hr>
+
+<p align="center"> DAN YAP KAMU BISA MENJALANKAN NYA</p>
+
+
+
