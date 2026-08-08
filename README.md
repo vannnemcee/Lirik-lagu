@@ -4,7 +4,6 @@
 
 <hr>
  
-[!TIP] 
-### Cara menggunakannya
-
+> [!TIP]
+> ### Cara menggunakannya
 1. Salin code/file ``lirik.py`, dan buka di VSCode
