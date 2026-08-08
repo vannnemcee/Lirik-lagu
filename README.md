@@ -36,6 +36,7 @@ pastikan kamu sudah melakukan tahap 1
    ```
 
 **5. versi simple untuk menjalankanya**
+
    Klik kanan dekat kode kalian,
    Pilih `Run Python`, lalu klik `Run Python in Terminal`.
    Itu cara simpel ketimbang no 2 dan no 3
