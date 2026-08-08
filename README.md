@@ -5,7 +5,7 @@
 <hr>
  
 <details>
-  <summary>📌 Cara Menggunakannya</summary>
+  <summary>### ara Menggunakannya</summary>
 
   1. Salin code/file `lirik.py`, dan buka di VSCode  
   2. Jalankan sesuai kebutuhan  
