@@ -1,3 +1,3 @@
 # Lirik-lagu
 
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/a499da07-bb6a-4cc1-9093-c9d58f0e2e3a" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/195a6b1b-ea8f-43b8-b49e-d4a80cd095fe" />
