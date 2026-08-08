@@ -35,6 +35,11 @@ pastikan kamu sudah melakukan tahap 1
    python lirik.py
    ```
 
+5. versi simple untuk menjalankanya
+   klik kanan dekat kode kalian
+   pilih `Run Python`, lalu klik `Run Python in Terminal`
+   itu cara simpel ketimbang no 2 dan no 3
+
 <hr>
 
 <p align="center"> DAN YAP KAMU BISA MENJALANKAN NYA</p>
