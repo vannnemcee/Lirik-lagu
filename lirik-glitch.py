@@ -353,7 +353,7 @@ class MultiLyricsManager:
 
         print("\n╔══════════════════════════════════════════════════════╗")
         print("║                                                      ║")
-        print("║   ♪                  MEANT TO BE                ♪    ║")
+        print("║   ♪                  LIRIK KAMU                 ♪    ║")
         print("║                                                      ║")
         print("╚══════════════════════════════════════════════════════╝\n")
 
